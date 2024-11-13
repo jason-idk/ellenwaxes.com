@@ -1,0 +1,15 @@
+name: Ellen Hensley
+dp: /screenshots/dp.jpg
+description: "
+  <p>
+    Esthetician | Makeup Artist
+  </p>
+"
+email: contact@ellenwaxes.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/ellen-hensley-615795a4/
+  - title: instagram
+    url: https://www.instagram.com/ellenwaxes.dtx/
+  - title: email
+    url: mailto:contact@ellenwaxes.com

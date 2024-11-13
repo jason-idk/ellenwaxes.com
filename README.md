@@ -1,2 +1,1 @@
-# ellenwaxes.com
-CV/Portfolio
+CV/Portfolio: https://ellenwaxes.com
